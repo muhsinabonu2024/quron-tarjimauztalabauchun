@@ -1,19 +1,19 @@
 {
   "name": "Қуръони Карим таржимаси",
   "short_name": "Қуръони таржимаси",
-  "description": "Qur'oni Karimning ma'nolar tarjimasi",
-  "start_url": "/index.html",
+  "start_url": "https://quranuzbektarjimalari.github.io/quron-tarjimauztalabauchun/",
+  "scope": "https://quranuzbektarjimalari.github.io/quron-tarjimauztalabauchun/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#008000",
   "icons": [
     {
-      "src": "icon-192x192.png",
+      "src": "./icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon-512x512.png",
+      "src": "./icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
